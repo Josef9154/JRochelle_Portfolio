@@ -17,7 +17,9 @@ project_entries:
   - title: 'Project 4: Predicting telecom churn'
     url: >-
       https://github.com/Josef9154/Portfolio-Examples/blob/main/Project%204-%20Predicting%20telecom%20churn.ipynb
-    desc: 'This project uses highlight markup, configured in _data/home.yml'
+    desc: >-
+      The purpose of this study is to utilize customer demographic information
+      to determine 
   - title: Project 5
     url: overview-post
     desc: Moonwalk also has horizontal list (used in header and footer)
