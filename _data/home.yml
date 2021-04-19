@@ -38,7 +38,7 @@ project_entries:
     desc: >-
       The purpose of this study is to utilizing a classification algorithm to
       predict deaths by class system. 
-  - title: Project 8
+  - title: 'Project 8: Predicting text classification with Neural Networks'
     url: lorem-ipsum
     desc: lorem-ipsum
   - title: Project 9
