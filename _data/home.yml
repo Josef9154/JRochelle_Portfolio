@@ -27,7 +27,8 @@ project_entries:
       The purpose of this study is to predict the % of deaths from confirmed
       cases.
   - title: 'Project 6: Predicting baseball attendance'
-    url: overview-post
+    url: >-
+      https://github.com/Josef9154/Portfolio-Examples/blob/main/Project%206-%20Predicting%20baseball%20attendance.ipynb
     desc: It also has a scalable vertical list (in case you need it)
   - title: Project 7
     url: lorem-ipsum
