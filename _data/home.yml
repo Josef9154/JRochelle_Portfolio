@@ -32,7 +32,7 @@ project_entries:
     desc: >-
       The purpose of this study is to predict baseball attendance as it relates
       to promotional merchandise offered. 
-  - title: 'Project 7: Predicting Titantic deaths by class system'
+  - title: 'Project 7: Predicting Titanic deaths by class system'
     url: lorem-ipsum
     desc: lorem-ipsum
   - title: Project 8
