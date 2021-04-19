@@ -33,9 +33,6 @@ old_project_entries:
       Delight your readers - add beautiful share and like buttons easily to your
       websites
     highlight: NEW
-  - title: Moonwalk
-    url: 'https://github.com/abhinavs/moonwalk'
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
 footer_entries:
   - title: abhinav's homepage
     url: 'https://www.abhinav.co'
