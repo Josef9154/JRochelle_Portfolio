@@ -29,9 +29,6 @@ project_entries:
 old_project_entries:
   - title: List of all old projects
     url: 'https://github.com/Josef9154'
-    desc: >-
-      Delight your readers - add beautiful share and like buttons easily to your
-      websites
     highlight: NEW
 footer_entries:
   - title: abhinav's homepage
