@@ -5,7 +5,9 @@ project_entries:
   - title: 'Project 1: Predicting HR success factors of hiring data scientists'
     url: >-
       https://github.com/Josef9154/Portfolio-Examples/blob/main/Project%201-%20Predicting%20HR%20analytics%20of%20data%20scientist.ipynb
-    desc: 'The purpose of this study is to utilize '
+    desc: >-
+      The purpose of this study is to utilize hiring features and create a
+      predictive hiring score if the
   - title: Project 2
     url: overview-post
     desc: Projects are shown in card layout
