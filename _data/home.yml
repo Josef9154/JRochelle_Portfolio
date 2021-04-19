@@ -45,7 +45,8 @@ project_entries:
       The purpose of this study is to use deep learning to predict text
       classification with free text form
   - title: 'Project 9: Predicting Hotel Reocmmendations'
-    url: lorem-ipsum
+    url: >-
+      https://github.com/Josef9154/Portfolio-Examples/blob/main/Project%209-%20Predicting%20hotel%20recommendations.ipynb
     desc: lorem-ipsum
   - title: Project 10
     url: lorem-ipsum
