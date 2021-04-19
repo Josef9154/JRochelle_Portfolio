@@ -35,7 +35,6 @@ project_entries:
   - title: Project 10
     url: lorem-ipsum
     desc: lorem-ipsum
-    highlight: lorem-ipsum
 old_project_entries:
   - title: List of all old projects
     url: 'https://github.com/Josef9154'
