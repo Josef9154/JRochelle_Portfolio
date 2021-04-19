@@ -49,7 +49,7 @@ project_entries:
       https://github.com/Josef9154/Portfolio-Examples/blob/main/Project%209-%20Predicting%20hotel%20recommendations.ipynb
     desc: >-
       The purpose of this study is to utilize logistic regression and cluster
-      information to predict 
+      information to predict hotel recommendations. 
   - title: Project 10
     url: lorem-ipsum
     desc: lorem-ipsum
