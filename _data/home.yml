@@ -32,9 +32,7 @@ old_project_entries:
     desc: >-
       This section has about 85 different projects that can be used from the
       achieve 
-footer_entries:
-  - title: feed
-    url: feed.xml
+footer_entries: []
 misc_entries:
   - title: this is an example vertical list
     url: false
