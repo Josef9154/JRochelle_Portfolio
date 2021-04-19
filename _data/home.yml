@@ -29,7 +29,7 @@ project_entries:
   - title: 'Project 6: Predicting baseball attendance'
     url: >-
       https://github.com/Josef9154/Portfolio-Examples/blob/main/Project%206-%20Predicting%20baseball%20attendance.ipynb
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: 'The purpose of this study is to predict baceball attendance '
   - title: Project 7
     url: lorem-ipsum
     desc: lorem-ipsum
