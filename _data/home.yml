@@ -21,7 +21,8 @@ project_entries:
       The purpose of this study is to utilize customer demographic information
       to determine churn propensity.
   - title: 'Project 5: Predicting Covid Deaths'
-    url: overview-post
+    url: >-
+      https://github.com/Josef9154/Portfolio-Examples/blob/main/Project%205-%20Predicting%20Covid%20Deaths.ipynb
     desc: Moonwalk also has horizontal list (used in header and footer)
   - title: Project 6
     url: overview-post
