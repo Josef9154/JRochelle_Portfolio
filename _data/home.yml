@@ -11,7 +11,7 @@ project_entries:
   - title: 'Project 2: Predicting heart attacks'
     url: TBD
     desc: TBD
-  - title: Project 3
+  - title: 'Project 3: TBD'
     url: overview-post
     desc: You can control visibility from _config.yml file
   - title: 'Project 4: Predicting telecom churn'
