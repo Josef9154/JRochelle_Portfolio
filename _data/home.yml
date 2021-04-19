@@ -33,8 +33,6 @@ old_project_entries:
       This section has about 85 different projects that can be used from the
       achieve 
 footer_entries:
-  - title: abhinav's homepage
-    url: 'https://www.abhinav.co'
   - title: feed
     url: feed.xml
 misc_entries:
