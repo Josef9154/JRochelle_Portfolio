@@ -10,7 +10,7 @@ project_entries:
       predictive hiring score if the applicant is looking for a job or not.
   - title: 'Project 2: Predicting heart attacks'
     url: TBD
-    desc: Projects are shown in card layout
+    desc: TBD
   - title: Project 3
     url: overview-post
     desc: You can control visibility from _config.yml file
