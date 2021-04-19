@@ -35,7 +35,9 @@ project_entries:
   - title: 'Project 7: Predicting Titanic deaths by class system'
     url: >-
       https://github.com/Josef9154/Portfolio-Examples/blob/main/Project%207-%20Predicting%20Titanic%20deaths%20by%20class%20systems.ipynb
-    desc: lorem-ipsum
+    desc: >-
+      The purpose of this study is to utilizing a classification algorithm to
+      predict deaths by class system. 
   - title: Project 8
     url: lorem-ipsum
     desc: lorem-ipsum
