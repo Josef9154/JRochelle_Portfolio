@@ -13,7 +13,7 @@ project_entries:
     desc: TBD
   - title: 'Project 3: TBD'
     url: TBD
-    desc: You can control visibility from _config.yml file
+    desc: TBD
   - title: 'Project 4: Predicting telecom churn'
     url: >-
       https://github.com/Josef9154/Portfolio-Examples/blob/main/Project%204-%20Predicting%20telecom%20churn.ipynb
