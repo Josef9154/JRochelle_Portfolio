@@ -2,7 +2,7 @@ navbar_entries:
   - title: about
     url: about
   - title: Contact
-    url: lorem-ipsum
+    url: 'https://www.linkedin.com/in/dr-joseph-rochelle-phd-3355941a6/'
 project_entries:
   - title: 'Project 1: Predicting HR success factors of hiring data scientists'
     url: >-
