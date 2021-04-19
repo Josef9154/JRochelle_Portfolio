@@ -12,7 +12,7 @@ project_entries:
     url: TBD
     desc: TBD
   - title: 'Project 3: TBD'
-    url: overview-post
+    url: TBD
     desc: You can control visibility from _config.yml file
   - title: 'Project 4: Predicting telecom churn'
     url: >-
