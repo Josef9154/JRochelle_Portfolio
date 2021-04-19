@@ -51,7 +51,8 @@ project_entries:
       The purpose of this study is to utilize logistic regression and cluster
       information to predict hotel recommendations. 
   - title: 'Project 10: Video game data wrangling'
-    url: lorem-ipsum
+    url: >-
+      https://github.com/Josef9154/Portfolio-Examples/blob/main/Project%2010-%20Video%20game%20data%20wrangling%20and%20DBA.ipynb
     desc: lorem-ipsum
 old_project_entries:
   - title: List of all old projects
