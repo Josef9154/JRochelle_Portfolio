@@ -61,6 +61,13 @@ project_entries:
     desc: >-
       The purpose of this study is to wrangle data from twitter, web scrapping,
       apis, and flat files. 
+ - title: 'All Projects & Readme files'
+    url: >-
+      https://github.com/Josef9154/Portfolio-Examples
+    desc: >-
+      You will find all code and readme files here. 
+
+
 old_project_entries:
   - title: List of all old projects
     url: 'https://github.com/Josef9154'
