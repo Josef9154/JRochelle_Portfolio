@@ -11,11 +11,14 @@ project_entries:
       The purpose of this study is to utilize hiring features and create a
       predictive hiring score if the applicant is looking for a job or not.
   - title: 'Project 2: Predicting heart attacks'
-    url: TBD
-    desc: TBD
-  - title: 'Project 3: TBD'
-    url: TBD
-    desc: TBD
+    url: >-
+      https://github.com/Josef9154/Portfolio-Examples/blob/main/Project%202-%20Predicting%20Heart%20Attacks.ipynb
+    desc: >-
+      The purpose of this study is to examine the diagnostics heath data that predicts heart attacks.
+  - title: 'Project 3: Predicting Restaurant Revenue'
+    url: >-
+      https://github.com/Josef9154/Portfolio-Examples/blob/main/Project%203-%20Predicting%20Restaurant%20Revenue.ipynb
+    desc: The purpose of this study is to examine the multiple pieces of data that can predict restaurant revenue.
   - title: 'Project 4: Predicting telecom churn'
     url: >-
       https://github.com/Josef9154/Portfolio-Examples/blob/main/Project%204-%20Predicting%20telecom%20churn.ipynb
