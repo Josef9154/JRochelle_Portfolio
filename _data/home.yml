@@ -58,6 +58,9 @@ project_entries:
     desc: >-
       The purpose of this study is to wrangle data from twitter, web scrapping,
       apis, and flat files. 
+  - title: lorem-ipsum
+    url: lorem-ipsum
+    desc: lorem-ipsum
 old_project_entries:
   - title: List of all old projects
     url: 'https://github.com/Josef9154'
